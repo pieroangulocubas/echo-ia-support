@@ -1,5 +1,5 @@
-export default function TestPage(){
+export default function Page() {
     return (
-        <h1>TEST</h1>
-    )
+       <h1>TEst</h1>
+    );
 }
